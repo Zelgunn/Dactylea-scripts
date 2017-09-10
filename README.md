@@ -82,25 +82,25 @@ The technique I used for whiteboard is not very good and I didn't have time to u
 ![Alt text](Illustrations/Dactylea.png)
 
 * Chemicals:  
-![Alt text](Illustrations/Dactylea*compounds.png)
+![Alt text](Illustrations/Dactylea-compounds.png)
 
 * The magnetic agitator:  
-![Alt text](Illustrations/Dactylea*agitator.png)
+![Alt text](Illustrations/Dactylea-agitator.png)
 
 * The result of the simulation, the Pharao's Serpent:  
-![Alt text](Illustrations/Dactylea*Pharao_s_Serpent.png)
+![Alt text](Illustrations/Dactylea-Pharao_s_Serpent.png)
 
 * Diethyl ether exploding:  
-![Alt text](Illustrations/Dactylea*explosion.png)
+![Alt text](Illustrations/Dactylea-explosion.png)
 
 * Select your favorite controller:  
-![Alt text](Illustrations/Dactylea*controller_selector.png)
+![Alt text](Illustrations/Dactylea-controller_selector.png)
 
 * Too small ? Rise the platform:  
-![Alt text](Illustrations/Dactylea*elevating_platorm.png)
+![Alt text](Illustrations/Dactylea-elevating_platorm.png)
 
 * Draw on the whiteboard:  
-![Alt text](Illustrations/Dactylea*white_board.png)
+![Alt text](Illustrations/Dactylea-white_board.png)
 
 * Need more pens ? Here is a pen distributor:  
-![Alt text](Illustrations/Dactylea*pen_distributor.png)
+![Alt text](Illustrations/Dactylea-pen_distributor.png)
