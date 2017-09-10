@@ -16,7 +16,8 @@ Most graphical elements were made by [Emilien Grude](https://www.artstation.com/
 * [Voice recognition](#voice-recognition)  
 * [Controller selection](#controller-selection)  
 * [Elevating platform](#elevating-platform)  
-* [Whiteboard drawing](#whiteboard-drawing)  
+* [Whiteboard drawing](#whiteboard-drawing)
+
 [Illustrations](#illustrations)  
 
 ## The simulation
