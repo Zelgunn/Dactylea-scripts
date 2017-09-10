@@ -7,15 +7,30 @@ Be careful when manipulating chemicals, Ethanol burns and glass breaks. You have
 Dactylea was made for the [LAMPA laboratory](http://lampa.ensam.eu/).
 Here is the [presentation video (on Youtube)](https://www.youtube.com/watch?v=ghqWI-w7M_k).
 
-Most graphical elements were made by Emilien Grude.
+Most graphical elements were made by [Emilien Grude](https://www.artstation.com/scraick).
 
 ## Table of contents
-[The simulation](#the-simulation)   
-[Fluid simulation](#fluid-simulation)   
+[The simulation](#the-simulation)  
+[Fluid simulation](#fluid-simulation)  
+[Other interactions](#other-interactions)  
+-[Voice recognition](#voice-recognition)
+-[Controller selection](#controller-selection)
+-[Elevating platform](#elevating-platform)
+-[Whiteboard drawing](#whiteboard-drawing)
 [Illustrations](#illustrations)  
 
 ## The simulation
 
 ## Fluid simulation
+
+## Other interactions
+
+### Voice recognition
+
+### Controller selection
+
+### Elevating platform
+
+### Whiteboard drawing
 
 ## Illustrations
