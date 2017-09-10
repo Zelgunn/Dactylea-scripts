@@ -13,10 +13,10 @@ Most graphical elements were made by [Emilien Grude](https://www.artstation.com/
 [The simulation](#the-simulation)  
 [Fluid simulation](#fluid-simulation)  
 [Other interactions](#other-interactions)  
--[Voice recognition](#voice-recognition)
--[Controller selection](#controller-selection)
--[Elevating platform](#elevating-platform)
--[Whiteboard drawing](#whiteboard-drawing)
+* [Voice recognition](#voice-recognition)
+* [Controller selection](#controller-selection)
+* [Elevating platform](#elevating-platform)
+* [Whiteboard drawing](#whiteboard-drawing)
 [Illustrations](#illustrations)  
 
 ## The simulation
@@ -26,11 +26,25 @@ Most graphical elements were made by [Emilien Grude](https://www.artstation.com/
 ## Other interactions
 
 ### Voice recognition
+Voice recognition was achieved by using Microsoft's API with :
+```csharp
+using UnityEngine.Windows.Speech;
+```
+This API "only" does Keyword recognition, not Speech-to-Text.
 
 ### Controller selection
+The user has the choice between 4 controllers, each controller is there to improve immersion, trying to explain interactions in different ways:
+* Default controller  
+* Hands  
+* Default controller with Claws
+* Default controller with Laser beam
 
 ### Elevating platform
+It was decided during development to present this project at the Science Festival. We wanted children to be able to participate, to keep it immersive, we added a platform that can rise up.
 
 ### Whiteboard drawing
+There was a whiteboard since ealy development, we wanted to scene to feel more "complete" so we added pens and interaction to be able to draw on the whiteboard.  
+By default, you only have few pens but you can ask Fabienne to bring you the pen distributor, allowing you to make any color (using RGB). Be careful not to flood the floor with too many pens, it may slow down the program at some point !  
+The technique I used for whiteboard is not very good and I didn't have time to update it. If you're interested  in Texture painting, you should check [this tutorial](http://codeartist.mx/tutorials/dynamic-texture-painting/).
 
 ## Illustrations
